@@ -21,7 +21,7 @@ https://doi.org/10.1287/ijoc.2023.0131.cd
 Below is the BibTex for citing this snapshot of the repository.
 
 ```
-@misc{CacheTest,
+@misc{Yu2024,
   author =        {Li Yu, Wei Gong, Dongsong Zhang and Yu Ding},
   publisher =     {INFORMS Journal on Computing},
   title =         {From Interaction to Prediction: A Multi-Interactive Attention based Approach to Product Rating Prediction},
