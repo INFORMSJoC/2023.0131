@@ -22,7 +22,7 @@ Below is the BibTex for citing this snapshot of the repository.
 
 ```
 @misc{Yu2024,
-  author =        {Li Yu, Wei Gong, Dongsong Zhang, Yu Ding and Zhe Fu},
+  author =        {Li Yu and Wei Gong and Dongsong Zhang and Yu Ding and Zhe Fu},
   publisher =     {INFORMS Journal on Computing},
   title =         {From Interaction to Prediction: A Multi-Interactive Attention based Approach to Product Rating Prediction},
   year =          {2024},
