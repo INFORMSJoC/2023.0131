@@ -7,7 +7,7 @@ Computing](https://pubsonline.informs.org/journal/ijoc) under the [MIT License](
 
 The software and data in this repository are a snapshot of the software and data
 that were used in the research reported on in the paper 
-[From Interaction to Prediction: A Multi-Interactive Attention based Approach to Product Rating Prediction](https://doi.org/10.1287/ijoc.2023.0131) by Yu L, Gong W, Zhang D, and Ding Y. 
+[From Interaction to Prediction: A Multi-Interactive Attention based Approach to Product Rating Prediction](https://doi.org/10.1287/ijoc.2023.0131) by Yu L, Gong W, Zhang D, Ding Y and Fu Z. 
 
 
 ## Cite
@@ -22,7 +22,7 @@ Below is the BibTex for citing this snapshot of the repository.
 
 ```
 @misc{Yu2024,
-  author =        {Li Yu, Wei Gong, Dongsong Zhang and Yu Ding},
+  author =        {Li Yu and Wei Gong and Dongsong Zhang and Yu Ding and Zhe Fu},
   publisher =     {INFORMS Journal on Computing},
   title =         {From Interaction to Prediction: A Multi-Interactive Attention based Approach to Product Rating Prediction},
   year =          {2024},
